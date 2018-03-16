@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2018-03-17 00:00+0530\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: test.py:10
+msgid   "Hello! What is your name?"
+msgstr  ""
+
+#: test.py:14
+msgid   "Well,"
+msgstr  ""
+
+#: test.py:14
+msgid   ", I am thinking of a number between 1 and 20."
+msgstr  ""
+
+#: test.py:17
+msgid   "Take a guess."
+msgstr  ""
+
+#: test.py:24
+msgid   "Your guess is too low."
+msgstr  ""
+
+#: test.py:27
+msgid   "Your guess is too high."
+msgstr  ""
+
+#: test.py:34
+msgid   "Good job, "
+msgstr  ""
+
+#: test.py:34
+msgid   " guesses!"
+msgstr  ""
+
+#: test.py:34
+msgid   "You guessed my number in"
+msgstr  ""
+
+#: test.py:38
+msgid   "Nope. The number I was thinking of was "
+msgstr  ""

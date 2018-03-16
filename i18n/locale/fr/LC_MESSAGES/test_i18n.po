@@ -1,0 +1,58 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Yagyansh <yagyansh@yagyansh>, 2018.
+#
+msgid ""
+msgstr "fr - "
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-17 00:00+0530\n"
+"PO-Revision-Date: 2018-03-17 00:01+0530\n"
+"Last-Translator: Yagyansh <yagyansh@yagyansh>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: test.py:10
+msgid "Hello! What is your name?"
+msgstr "fr - Hello! What is your name?"
+
+#: test.py:14
+msgid "Well,"
+msgstr "fr - Well,"
+
+#: test.py:14
+msgid ", I am thinking of a number between 1 and 20."
+msgstr "fr - , I am thinking of a number between 1 and 20."
+
+#: test.py:17
+msgid "Take a guess."
+msgstr "fr - Take a guess."
+
+#: test.py:24
+msgid "Your guess is too low."
+msgstr "fr - Your guess is too low."
+
+#: test.py:27
+msgid "Your guess is too high."
+msgstr "fr - Your guess is too high."
+
+#: test.py:34
+msgid "Good job, "
+msgstr "fr - Good job, "
+
+#: test.py:34
+msgid " guesses!"
+msgstr "fr -  guesses!"
+
+#: test.py:34
+msgid "You guessed my number in"
+msgstr "fr - You guessed my number in"
+
+#: test.py:38
+msgid "Nope. The number I was thinking of was "
+msgstr "fr - Nope. The number I was thinking of was "
