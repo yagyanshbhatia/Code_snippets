@@ -2,7 +2,7 @@ These steps are to be followed.
 
 lets say your plugin has name test.py, located in the src folder.
 
-I: 		wrap the "to be translated" strings in _() or N_() function
+I: 		wrap the "to be translated" strings in "\_()" or "N\_()" function
 
 II: 	`xgettext -i src/test.py -o test.pot -d test_i18n`
 
