@@ -5,11 +5,6 @@ data = urllib.request.urlopen(url) # read only 20 000 chars
 
 s = str(data.read())[2:-1]
 
-
-# # import urllib
-# # txt = urllib.urlopen(url).read()
-
-
 import json
 
 
